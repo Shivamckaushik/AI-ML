@@ -1,2 +1,2 @@
-# AI-ML
-Agentic AI and ML based projects focusing on chunking
+# aiml-bootcamp-intensive
+Repository for the AIML Bootcamp
